@@ -1,0 +1,83 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "すたんだーど",
+			"Worlds": [
+				{
+					"ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
+					"Name": "［JP］Horror portal World _ホラーワールドポータルコレクション_",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "ホラーワールドのポータルを置いてたり私が置きたいものを置いているワールドです。新しいホラーワールドを見つけたら更新していきます。 2023_07_14 VCC対応⁄ワールドサムネ変更⁄ワールド名変更",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b190b986-3bae-4554-b172-35ad47eff189",
+					"Name": "［JP］-フレンド作り交流場「ENCOUNTER」",
+					"RecommendedCapacity": 16,
+					"Capacity": 20,
+					"Description": "フレンド作りを目的としたユーザーが集まる交流ワールドです。不具合、要望等はX（＠leru_vrc）にご報告ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
+					"Name": "Avatar Testing Chamber",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Working on avatars? Test your emissions‚ AudioLink‚ LTCGI‚ height‚ falling animation‚ polygons⁄normals‚ reflections and moreǃ View your own doppelganger‚ dance to a MMD song‚ use real-time lights or take pictures with any colour background․ ~ World is a continuous work in progress",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "きれい",
+			"Worlds": [
+				{
+					"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+					"Name": "Tiny Life Room",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
+					"Name": "［JP］Horror portal World _ホラーワールドポータルコレクション_",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "ホラーワールドのポータルを置いてたり私が置きたいものを置いているワールドです。新しいホラーワールドを見つけたら更新していきます。 2023_07_14 VCC対応⁄ワールドサムネ変更⁄ワールド名変更",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "あそぶ",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": null,
+			"Worlds": [
+				
+			]
+		}
+	]
+}

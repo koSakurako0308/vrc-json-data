@@ -1,83 +1,1444 @@
 {
-	"ReverseCategorys": false,
-	"ShowPrivateWorld": false,
-	"Categorys": [
-		{
-			"Category": "すたんだーど",
-			"Worlds": [
-				{
-					"ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
-					"Name": "［JP］Horror portal World _ホラーワールドポータルコレクション_",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
-					"Description": "ホラーワールドのポータルを置いてたり私が置きたいものを置いているワールドです。新しいホラーワールドを見つけたら更新していきます。 2023_07_14 VCC対応⁄ワールドサムネ変更⁄ワールド名変更",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_b190b986-3bae-4554-b172-35ad47eff189",
-					"Name": "［JP］-フレンド作り交流場「ENCOUNTER」",
-					"RecommendedCapacity": 16,
-					"Capacity": 20,
-					"Description": "フレンド作りを目的としたユーザーが集まる交流ワールドです。不具合、要望等はX（＠leru_vrc）にご報告ください。",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
-					"Name": "Avatar Testing Chamber",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Working on avatars? Test your emissions‚ AudioLink‚ LTCGI‚ height‚ falling animation‚ polygons⁄normals‚ reflections and moreǃ View your own doppelganger‚ dance to a MMD song‚ use real-time lights or take pictures with any colour background․ ~ World is a continuous work in progress",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				}
-			]
-		},
-		{
-			"Category": "きれい",
-			"Worlds": [
-				{
-					"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
-					"Name": "Tiny Life Room",
-					"RecommendedCapacity": 6,
-					"Capacity": 16,
-					"Description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
-					"Name": "［JP］Horror portal World _ホラーワールドポータルコレクション_",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
-					"Description": "ホラーワールドのポータルを置いてたり私が置きたいものを置いているワールドです。新しいホラーワールドを見つけたら更新していきます。 2023_07_14 VCC対応⁄ワールドサムネ変更⁄ワールド名変更",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				}
-			]
-		},
-		{
-			"Category": "あそぶ",
-			"Worlds": [
-				
-			]
-		},
-		{
-			"Category": null,
-			"Worlds": [
-				
-			]
-		}
-	]
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "スタンダード",
+      "Worlds": [
+        {
+          "ID": "wrld_fdd1212f-3fa8-42f6-86e8-6330bf1015cd",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b190b986-3bae-4554-b172-35ad47eff189",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_5fdc5f70-c272-44ff-8afe-6dd15f3f1931",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_1b385fae-cdbe-424c-bc9f-3aa24079084d",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_6afef115-9e35-48cc-9ebf-7533fdccbdf4",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_102a43d3-3e5b-4e39-9386-d83ce5d03ef1",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_c69281a4-c328-4e46-9275-a284d1f97fce",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_846188a7-a7ef-4314-b81f-e0a1d1d6233f",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_2c3eea19-21a6-4916-bf99-4725cd8f4c25",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_9a180fbb-8521-43c6-8b54-2bc7076640dc",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_f356d561-94b6-4711-be66-6545255ac5b6",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_6b77c061-a1bf-48eb-b107-c4d944490198",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_30716c54-3565-42f7-b7c5-d398ef4faac5",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_c5417681-f440-4f20-9fbf-2c6c84cb198a",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        }
+      ]
+    },
+    {
+      "Category": "チルワ",
+      "Worlds": [
+        {
+          "ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_e13c9c14-0da2-43fb-a9cb-dc65b41ff2e7",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_bfa543f7-ccf5-4139-bd81-799e4ae5cd41",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_f9ac509f-b358-463e-ac46-7ca8707f8f84",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_aaf02a7d-3973-4e57-a9bb-ea8428d5678b",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_0c051dc1-1000-461a-bf17-ba48d4b3898d",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_1cc6ac8e-237f-4a1a-9b6d-0a6e15cf99dd",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_99a5eb21-1d58-4f13-b66a-73d327c42705",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_ef624919-f622-4cbc-a4d0-ec00f7031de6",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_6995f83a-115a-4599-a8f7-2800fe356de7",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_035a2859-d85f-4475-b9e5-891978589da7",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_faaa0b96-2934-4bd2-bb60-8508edc96b4b",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_49a52af0-ecb1-469a-9e2e-b7217a625c4e",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_292d52da-80f1-47b9-9525-c60b0de8b63d",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b38f0836-4542-469e-a015-ad554e72c308",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_38afca54-a8d0-4c0f-a311-22862b34e6f2",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_da64f96d-7b06-422e-a6bc-ffc937fee620",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_cb3fd7f6-b8f6-4ce4-bf02-eca71470f32e",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        }
+      ]
+    },
+    {
+      "Category": "写真用",
+      "Worlds": [
+        {
+          "ID": "wrld_c27c9d52-355f-4e38-8d71-0477270f8dd6",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_0c3c0636-00db-4e81-87a4-ff0bac24856c",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_c4069ce3-06db-4723-ac01-18437ab3f050",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_74a58f8e-0e50-45c7-89d6-b4271cdc898a",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_51685655-36c1-42d5-9b91-17546c07fdab",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_75d8169c-c79c-4ed2-bf6c-a1aa18971cab",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_9c3dc91b-c6b5-4869-a170-ceb7fad4df2d",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b84e9d07-0fa9-4694-945a-1fd19332b3e2",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b5f54b2d-613d-41ac-a906-33541ba6cbca",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_1c9036ff-712b-4495-ab25-b6045b999bed",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_4e4b59a5-7464-4fff-aa4a-495c4acb14db",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_4e985f9b-aa03-4d25-8198-547609ee3c89",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_d4eb8b77-95fe-4fe0-90ef-07cb1015aa48",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_fc64e08e-6cbc-4fa9-8c72-6e82cf20fadc",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_e4b65570-2d4d-41f8-8ca6-660c1f1cb001",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_17ad9a08-9cae-4eba-98ed-cda1e23f2568",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_984c1cf6-242e-4671-97c3-7eee82778493",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_adbcb217-fee9-4bb0-b264-54aef167e9ac",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_415ce231-55d1-4cd0-bfd7-aabb0dd6a540",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_10dc4379-e925-4b64-b347-9fe552e2fd4a",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_4bfcfe92-8889-43c3-8209-8c76bbabf9ca",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_966562e0-5c59-44c4-b69e-99c4519eb5a8",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_a2950c6d-89ec-4ba3-9a5a-b79638170189",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_f0c5648f-411c-4286-9c20-d53374b0ad98",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_df15c8a3-a14e-413f-a9ca-3d922d03f300",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_7bc032c1-f9e1-4e32-8b88-cc476c94f336",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_05d93b01-5424-4815-92c5-a9ece6a14d9d",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_3105951b-f9e4-4738-bc99-f2974be9e607",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_8e362f79-0a56-4013-8412-3935e3e41d7e",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_f6b6159f-0715-4546-9e43-97dfa50f155a",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_099acfd0-8ca1-4c59-bff7-a35a2fe8dc5a",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_9e4a6b48-16a1-468e-8feb-e8b414d1ba55",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_7633bef2-f336-4cde-b7b5-7b9b9b1e2b48",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_1ea5ca6f-954f-4d41-8721-c7d2c07a0e48",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_4d0642bb-4df4-479d-9887-277988ef2665",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_407e6571-b66b-4688-a5de-8d040ce9a53a",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_8fcc663b-78fd-4623-8c2a-026d4f6ea593",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_8cba9240-bf98-45b1-b043-57d4390468f0",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_2926f147-48d4-4be0-8e71-b25c74f261d3",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b5400989-f391-4336-9871-fdd8c13de4e8",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        }
+      ]
+    },
+    {
+      "Category": "ゲーム・お遊び",
+      "Worlds": [
+        {
+          "ID": "wrld_5feac872-7483-4bea-b554-4125bcbeb08b",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_f059e174-249c-4aa9-b1f2-3873ed9dfd89",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_dfbecb47-7f43-4dbd-8192-3bb007748c46",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_942868dc-0f2e-4e86-8c8d-2aa8680dd33f",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_34dfd244-c2ec-452a-897a-25b21320d8b2",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b53ff4ea-301b-476a-ae8f-0ac8e8eb8aa5",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_26d6afab-5b14-4fac-b3e2-4a35a3698de5",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_6d239385-d992-4734-87bf-d1ddebb01896",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b66c109c-a19f-4218-a7b6-305acc59cd84",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_2c1d2ccd-4c2a-4e97-bc57-70ffee7b8544",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_18d86de9-ddf5-4d2e-9470-bf178f67ed56",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_bb8f58f5-f201-4d4d-a013-882944bcc4c6",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_6f55a286-b851-4d3e-8933-e7a31138edd7",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_5a2bf507-10f9-48f7-ac4a-41e86f247d16",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_c84c5149-30ac-4e19-986d-96fa99840659",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_8ec08d31-29a7-4ce8-a3f5-37e8762a5d93",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_611394c4-7ef1-4eac-b15f-7912bb998ce5",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        }
+      ]
+    },
+    {
+      "Category": "学術",
+      "Worlds": [
+        {
+          "ID": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_ffb0af53-b42a-4250-a7f4-1198bf5366b2",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_706cb5ab-5df4-41d3-8f1d-b94591fd69be",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_5ae9e6c2-ae04-4e7c-ad1d-1220c1514b54",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_41113a52-6298-4de0-a1ee-76c25108d8b6",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        }
+      ]
+    },
+    {
+      "Category": "その他",
+      "Worlds": [
+        {
+          "ID": "wrld_ab668c65-b800-44ed-9325-ca2a043cfd75",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_0b4e5774-473d-4943-bb22-aac0c1b706f3",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_5a350c04-8885-41b5-addd-173832a022ec",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_5e71c64a-0124-454e-9fd4-df3dc01edac2",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_c5d6c0a4-b271-408b-aa96-3ef89431269c",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_65fb9243-a855-4415-a8e7-01b66d7bda51",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_39e8159a-6a96-4708-84c4-f79b1e7d74a6",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_1020909e-0f49-4a6e-ab93-3f1f93f847fa",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_56bf76d5-8b98-499f-9e06-be728cf87259",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_3dc56901-a3b8-4439-b6eb-427dc4ab75f9",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_d3d7e0db-030a-4fa3-8a2c-ecaa617e083a",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b6508d09-91ee-423f-99da-89838483d939",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_7835a5ef-25b3-4b9c-b382-dd41eff596d4",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_88524b47-aedc-4bf1-900b-b0d1c5d670ea",
+          "Name": "ワールド名（仮）",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        }
+      ]
+    }
+  ]
 }
